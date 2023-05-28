@@ -1,3 +1,17 @@
 body {
     background-color: linen;
 }
+.date {
+    text-align: right;
+}
+h1 {
+    color: white;
+    background-color: blue;
+}
+h2 {
+    color: royalblue;
+    background-color: white;
+}
+.color {
+    background-color: whitesmoke;
+}
